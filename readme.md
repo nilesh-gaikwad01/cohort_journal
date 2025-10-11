@@ -1,0 +1,28 @@
+# 🚀 Cohort Journal — My Learning Journey
+
+Welcome to my **100x Dev Cohort Journal**, where I document my **daily coding journey**, projects, and reflections as I learn full-stack development.
+
+## 🧩 Purpose
+To build consistency, track progress, and improve through reflection.
+
+## 🗓️ Structure
+- Each file (Day 1, Day 2, ...) contains daily learning notes.
+- Weekly summaries highlight my progress and key takeaways.
+- Code examples and screenshots are included in `images/`.
+
+## 🧠 Tech Stack I'm Learning
+- JavaScript
+- Node.js & Express
+- MongoDB
+- Git & GitHub
+- React (coming soon)
+- Zod, JWT, Middleware
+
+## 🌱 My Goals
+- Become a full-stack web developer.
+- Build real-world problem-solving projects.
+- Improve code quality, structure, and documentation.
+
+---
+
+✨ **Follow my journey here** → [GitHub Profile](https://github.com/nilesh-gaikwad01)
