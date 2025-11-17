@@ -1,9 +1,9 @@
 # 🚀 Cohort Journal — My Learning Journey
 
-Welcome to my **100x Dev Cohort Journal**, where I document my **daily coding journey**, projects, and reflections as I learn full-stack development.
+Welcome to my **Learning Journal**, where I document my **daily coding journey**, projects, and reflections as I learn full-stack development.
 
 ## 🧩 Purpose
-To build consistency, track progress, and improve through reflection.
+To build consistency, track progress, and build the projects
 
 ## 🗓️ Structure
 - Each file (Day 1, Day 2, ...) contains daily learning notes.
@@ -13,10 +13,11 @@ To build consistency, track progress, and improve through reflection.
 ## 🧠 Tech Stack I'm Learning
 - JavaScript
 - Node.js & Express
+- React
+- Typescript
 - MongoDB
-- Git & GitHub
-- React (coming soon)
-- Zod, JWT, Middleware
+- Docker
+- CICD
 
 ## 🌱 My Goals
 - Become a full-stack web developer.
