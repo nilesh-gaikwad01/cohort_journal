@@ -2,11 +2,12 @@
 
 ## 📌 what I learned Today
 
-- Simple Primitives in JavaScript  
-- Complex Primitives in JavaScript  
-- Functions  
-- `break` Statement  
-- Callback Functions  
+ 
+- Complex Primitives in JavaScript `Array, Object`
+- Functions Overview  
+- `break` Statement 
+- Callback Functions overview
+- Practice
 
 ---
 
