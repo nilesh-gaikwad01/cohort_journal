@@ -1,6 +1,6 @@
 # Week 2 – Day 4: Callbacks, Promises & Async/Await
 
-## 📌 Topics Covered Today
+## Topics Covered Today
 
 - Functions & Callback Functions
 - Asynchronous JavaScript Basics

@@ -1,6 +1,6 @@
 # Week 2 – Day 2: 
 
-## 📌 what I learned Today
+##  what I learned Today
 
  
 - Complex Primitives in JavaScript `Array, Object`

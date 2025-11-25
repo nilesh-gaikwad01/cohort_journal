@@ -1,6 +1,6 @@
 # Week 2 – Day 1: 
 
-## 📌 what I learned Today
+##  what I learned Today
 
 - Why do we need programming languages?
 - Interpreted vs Compiled languages
