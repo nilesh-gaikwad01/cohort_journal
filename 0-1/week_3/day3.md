@@ -8,6 +8,8 @@
 - Callbacks inside array functions
 - how  the callbacks work, what is callback queues
 - Practice
+- notes
 
 ---
 
+Repo -[[01_javascript_basic](https://github.com/nilesh-gaikwad01/cohort-2.0/tree/main/01_javascript_basic)]
