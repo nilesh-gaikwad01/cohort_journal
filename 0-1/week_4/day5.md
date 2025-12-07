@@ -21,7 +21,7 @@
 ### Practice:
   
 
-Repo -[[02_express](https://github.com/nilesh-gaikwad01/cohort-2.0/tree/main/02_express/01_zod)]
+Repo -[[02_express](https://github.com/nilesh-gaikwad01/cohort-2.0/tree/main/02_express/02_authentication)]
 
 
 ---
