@@ -1,7 +1,7 @@
  
 
 
-# Week 4 – Day 5: Authentication (JWT) + Login App with In-Memory Database
+# Week 4 – Day 5: Authentication (JWT) and Login App with In-Memory Database
 
 ##  Today
 - What JWT (JSON Web Token).
