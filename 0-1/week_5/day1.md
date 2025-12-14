@@ -1,6 +1,7 @@
-# Week 5 – Day 1: MongoDB Setup & Basics (Learn in Public)
+# Week 5 – Day 1: MongoDB Setup and Basics
 
-## 📌 Topics Covered Today
+##  Topics Covered Today
+
 - Installing MongoDB & MongoDB Compass
 - Understanding NoSQL database structure
 - Connecting Node.js backend with MongoDB using Mongoose
