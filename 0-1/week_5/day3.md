@@ -1,4 +1,4 @@
-# Week 5 – Day 3: Login App Setup & Password Handling (MongoDB + Express)
+# Week 5 – Day 3: Login App Setup and Password Handling (MongoDB + Express)
 
 ## what I learned Today
 
@@ -8,7 +8,7 @@
 - Login flow with password verification
 - Handling duplicate users
 - Clean API responses for auth
-- Testing register & login APIs
+- Testing register and login APIs
 
 ---
 
