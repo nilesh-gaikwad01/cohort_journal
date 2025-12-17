@@ -10,3 +10,12 @@
 - Testing token-based access using Postman
 
 ---
+
+### Practice:
+  
+
+Repo -[https://github.com/nilesh-gaikwad01/cohort-2.0/tree/main/03_mongodb]
+
+
+---
+
